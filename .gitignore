@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+.env
+dist/
+coverage/
+*.log
+
+# Build directories
+client/build/
+server/dist/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+    
